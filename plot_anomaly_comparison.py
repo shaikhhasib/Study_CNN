@@ -10,7 +10,7 @@ from sklearn.covariance import EllipticEnvelope
 from sklearn.ensemble import IsolationForest
 from sklearn.neighbors import LocalOutlierFactor
 
-print(__doc__)
+#print(__doc__)
 
 matplotlib.rcParams['contour.negative_linestyle'] = 'solid'
 
